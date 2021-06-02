@@ -237,9 +237,9 @@ I will be using the `wordcloud` module, to create a WordCloud of the **most used
 
 That's it from my end! Did this in the middle of my sem exams, but it was worth it!
 
-<p align="center"><iframe src="https://giphy.com/embed/RJVetygOqfw9hY8mEN" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p align="center"><a href="https://giphy.com/gifs/brooklynninenine-season-7-brooklyn-99-b99-RJVetygOqfw9hY8mEN">via GIPHY</a></p></p>
+<p align="center"><img src="https://media.giphy.com/media/RJVetygOqfw9hY8mEN/giphy.gif"></p>
 
-If you find something interesting throughout the analysis, feel free to make a PR! 🎉️
+If you find something interesting throughout the analysis that I missed, feel free to make a PR! 🎉️
 
 It's really interesting to see the texting habits of people and incidents of daily life reflected in the text. I suggest you take a look at my code and apply it to your own group chats. However, some modifications will have to be done at the DataFrame creation part.
 
