@@ -45,7 +45,7 @@ We will be using :
 
 1. **Regex (re)** to extract and manipulate strings based on specific patterns.
 2. **pandas** for analysis.
-3. **matlotlib** and **seaborn** for visualization.
+3. **matplotlib** and **seaborn** for visualization.
 4. **emoji** to deal with emojis.
 5. **wordcloud** for the most used words.
 6. **datetime** for datetime manipulation.
@@ -140,7 +140,7 @@ _Replacing names with initials for better visualization_
 
 #### But here comes the twist!
 
-Now, I will plot the **Average Message Length of the messages sent by the Top 10 most active users**. _Let''s see the results now!_
+Now, I will plot the **Average Message Length of the messages sent by the Top 10 most active users**. _Let's see the results now!_
 
 ### _Comparing the top 10 users!_
 
@@ -248,5 +248,4 @@ If you're interested, shoot me a message and I'll help you out.
 # Author
 
 Tushar Nankani
-
--   [LinkedIn](https://www.linkedin.com/in/tusharnankani/) | [Twitter](https://twitter.com/tusharnankanii)
+- [LinkedIn](https://www.linkedin.com/in/tusharnankani/) | [Twitter](https://twitter.com/tusharnankanii)
