@@ -134,7 +134,7 @@ _Replacing names with initials for better visualization_
 <img src="assets/plots/top10users.svg">
 </p>
 
-**TK** still killing everyone by a mile, with **5000+ messages**, followed by **DL** with around **4000 messages**.
+**TK** still killing everyone by a mile, with **5000+ messages**, followed by **DR** with around **4000 messages**.
 
 ![](image/README/1622623583368.png)
 
